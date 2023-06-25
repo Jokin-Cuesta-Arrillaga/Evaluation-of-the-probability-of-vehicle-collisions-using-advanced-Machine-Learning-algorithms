@@ -22,3 +22,4 @@ results was used to calculate the probability of collision and trigger an alarm.
 Keywords: Collision detection, trajectory prediction, Machine Learning, Stacking Regres-
 sion
 
+Note: There are some references to work of Rafael Corvillo and Raúl Parada Medina.
