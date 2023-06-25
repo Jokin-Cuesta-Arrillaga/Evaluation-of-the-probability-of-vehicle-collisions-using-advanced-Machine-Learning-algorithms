@@ -8,7 +8,6 @@ With the aim of developing an Artificial Intelligence system that prevents accid
 
 The results obtained were not the expected ones, due to the fact that the distance error between the predicted and real coordinates were around 18 meters. The model with the best results was used to calculate the probability of collision and trigger an alarm.
 
-Keywords: Collision detection, trajectory prediction, Machine Learning, Stacking Regres-
-sion
+Keywords: Collision detection, trajectory prediction, Machine Learning, Stacking Regression
 
 Note: There are some references to work of Rafael Corvillo and Raúl Parada Medina.
